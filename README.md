@@ -102,6 +102,10 @@ Dort kannst du:
 
 Mit jedem Level werden die Gegner **länger** (mehr LEDs) und **schneller**.
 
+## Unterrichtseinheit
+
+- [Unterrichtseinheit für Technik/Informatik (BW, Bildungsplan 2016)](UNTERRICHTSEINHEIT.md)
+
 ## Erweiterungen und Anhänge
 
 - [Wokwi-Simulation](WOKWI.md)
