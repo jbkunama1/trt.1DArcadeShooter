@@ -102,9 +102,14 @@ Dort kannst du:
 
 Mit jedem Level werden die Gegner **länger** (mehr LEDs) und **schneller**.
 
-## Audio-Erweiterung (Optional)
+## Erweiterungen und Anhänge
 
-Siehe [AUDIO.md](AUDIO.md) für Anleitung zum Nachrüsten von I2S-Audio mit MAX98357A.
+- [Wokwi-Simulation](WOKWI.md)
+- [Gehäuse und Aufbau](GEHAEUSE.md)
+- [Zweispieler-Modus](ZWEISPIELER.md)
+- [Persistenter Highscore](HIGHSCORE.md)
+- [GitHub Actions / CI](CI.md)
+- [Audio-Erweiterung](AUDIO.md)
 
 ## Lizenz
 
